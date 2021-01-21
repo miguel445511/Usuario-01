@@ -9,3 +9,53 @@ http://pfsv.io:80/00826082/94250/33400
 http://pfsv.io:80/00826082/94250/33401
 #EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
 http://pfsv.io:80/00826082/94250/33402
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda",A Fazenda 12 (2020) [ALTER]
+http://pfsv.io:80/00826082/94250/48758
+#EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E FHD
+http://pfsv.io:80/00826082/94250/293
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Filmes e Séries",A&E FHD[H265]
+http://pfsv.io:80/00826082/94250/30227
+#EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E HD
+http://pfsv.io:80/00826082/94250/299
+#EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E SD
+http://pfsv.io:80/00826082/94250/324
+#EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC FHD
+http://pfsv.io:80/00826082/94250/294
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Filmes e Séries",AMC FHD[H265]
+http://pfsv.io:80/00826082/94250/30228
+#EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC HD
+http://pfsv.io:80/00826082/94250/300
+#EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMC SD
+http://pfsv.io:80/00826082/94250/325
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
+http://pfsv.io:80/00826082/94250/164
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://pfsv.io:80/00826082/94250/30248
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet HD
+http://pfsv.io:80/00826082/94250/179
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet SD
+http://pfsv.io:80/00826082/94250/194
+#EXTINF:-1 tvg-logo="http://p6.vc/f0e" group-title="Canais | 4K",Animal Planet [4K]
+http://pfsv.io:80/00826082/94250/588
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD
+http://pfsv.io:80/00826082/94250/165
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://pfsv.io:80/00826082/94250/30249
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 HD
+http://pfsv.io:80/00826082/94250/180
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 SD
+http://pfsv.io:80/00826082/94250/195
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Filmes e Séries",AXN FHD
+http://pfsv.io:80/00826082/94250/295
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Filmes e Séries",AXN FHD[H265]
+http://pfsv.io:80/00826082/94250/30206
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Legendados",AXN FHD[LEG]
+http://pfsv.io:80/00826082/94250/49101
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Filmes e Séries",AXN HD
+http://pfsv.io:80/00826082/94250/301
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",AXN HD [LEG]
+http://pfsv.io:80/00826082/94250/209
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Filmes e Séries",AXN SD
+http://pfsv.io:80/00826082/94250/326
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",AXN SD [LEG]
