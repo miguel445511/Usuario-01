@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DPUOI9.png" group-title="Canais | Religiosos",Cancao Nova FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1IPkgZ.png" group-title="Canais | Religiosos",Cancao Nova FHD
 http://pfsv.io:80/00826082/94250/49112
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DPUOI9.png" group-title="Canais | Religiosos",Cancao Nova HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1IPkgZ.png" group-title="Canais | Religiosos",Cancao Nova HD
 http://pfsv.io:80/00826082/94250/33379
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DPUOI9.png" group-title="Canais | Religiosos",Cancao Nova SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1IPkgZ.png" group-title="Canais | Religiosos",Cancao Nova SD
 http://pfsv.io:80/00826082/94250/552
