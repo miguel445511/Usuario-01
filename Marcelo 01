@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam Mosaico 01
+http://pfsv.io:80/33732940/14864/60676
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Acompanhe A Casa
+http://pfsv.io:80/33732940/14864/60677
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam 02
+http://pfsv.io:80/33732940/14864/60678
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Make Off
+http://pfsv.io:80/33732940/14864/60679
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Cordel
+http://pfsv.io:80/33732940/14864/60680
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Colorido
+http://pfsv.io:80/33732940/14864/60681
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Acompanhe a Casa EXTRA
+http://pfsv.io:80/33732940/14864/60682
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cozinha XEPA
+http://pfsv.io:80/33732940/14864/60683
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Sala de Estar
+http://pfsv.io:80/33732940/14864/60684
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Cordel Extra
+http://pfsv.io:80/33732940/14864/60686
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam 11
+http://pfsv.io:80/33732940/14864/60687
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Colorido Extra
+http://pfsv.io:80/33732940/14864/60685
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam Mosaico 02
+http://pfsv.io:80/33732940/14864/60692
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOy4bNK.png" group-title="Canais | Adultos",[XXX] AST TV 1 FHD
 http://pfsv.io:80/00826082/94250/44244
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOy4bNK.png" group-title="Canais | Adultos",[XXX] AST TV 1 HD
