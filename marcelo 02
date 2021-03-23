@@ -638,3 +638,8 @@ http://pfsv.io:80/00826082/94250/53339
 http://pfsv.io:80/00826082/94250/53340
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Câmeras ao Vivo", Altar Central - Santuário de Aparecida
 http://pfsv.io:80/00826082/94250/58159
+
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sextreme SD
+http://pfsv.io:80/33732940/14864/44155
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot SD
+http://pfsv.io:80/33732940/14864/44156
