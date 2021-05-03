@@ -1,6 +1,120 @@
 # EXTM3U
 #EXTINF: -1 tvg-logo = "" group-title = "Canais | A Fazenda", A Fazenda 12 (2020)
-http://pfsv.io:80/07720253/51853/48757
+http://pfsv.io:80/07720253/51853/
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 01
+http://pfsv.io:80/00826082/94250/33377
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 02
+http://pfsv.io:80/00826082/94250/33399
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 03
+http://pfsv.io:80/00826082/94250/33400
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 04
+http://pfsv.io:80/00826082/94250/33401
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
+http://pfsv.io:80/00826082/94250/33402
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/00826082/94250/35086
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/00826082/94250/35087
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/00826082/94250/35088
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 04
+http://pfsv.io:80/00826082/94250/35089
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 01 FHD 
+http://pfsv.io:80/00826082/94250/49102
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 01
+http://pfsv.io:80/00826082/94250/49106
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 02 FHD 
+http://pfsv.io:80/00826082/94250/49103
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 02 [ALTER]
+http://pfsv.io:80/00826082/94250/49107
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 03 FHD
+http://pfsv.io:80/00826082/94250/49104
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png" group-title="Canais | Jogos & Eventos",Conmebol 04 FHD
+http://pfsv.io:80/00826082/94250/49105
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 01
+http://pfsv.io:80/00826082/94250/35076
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 01[ALTER]
+http://pfsv.io:80/00826082/94250/35074
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 02
+http://pfsv.io:80/00826082/94250/35077
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 02[ALTER]
+http://pfsv.io:80/00826082/94250/35075
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 03
+http://pfsv.io:80/00826082/94250/35078
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 04
+http://pfsv.io:80/00826082/94250/35079
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 05
+http://pfsv.io:80/00826082/94250/35080
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 1
+http://pfsv.io:80/00826082/94250/504
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 2
+http://pfsv.io:80/00826082/94250/505
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 3
+http://pfsv.io:80/00826082/94250/506
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 4
+http://pfsv.io:80/00826082/94250/507
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 5
+http://pfsv.io:80/00826082/94250/508
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 6
+http://pfsv.io:80/00826082/94250/509
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 01
+http://pfsv.io:80/00826082/94250/495
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 02
+http://pfsv.io:80/00826082/94250/496
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 03
+http://pfsv.io:80/00826082/94250/497
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 04
+http://pfsv.io:80/00826082/94250/498
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 05
+http://pfsv.io:80/00826082/94250/499
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Ei Plus 06
+http://pfsv.io:80/00826082/94250/500
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",EI Plus HD
+http://pfsv.io:80/00826082/94250/488
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",EI Plus SD
+http://pfsv.io:80/00826082/94250/489
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos01
+http://pfsv.io:80/00826082/94250/35081
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos02
+http://pfsv.io:80/00826082/94250/35082
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos03
+http://pfsv.io:80/00826082/94250/35083
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos04
+http://pfsv.io:80/00826082/94250/35084
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
+http://pfsv.io:80/00826082/94250/263
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 SD
+http://pfsv.io:80/00826082/94250/272
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
+http://pfsv.io:80/00826082/94250/262
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports SD
+http://pfsv.io:80/00826082/94250/271
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globo.png" group-title="Canais | Jogos & Eventos",Globo Esporte
+http://pfsv.io:80/00826082/94250/491
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2" group-title=" Canais | Esportes",OFF HD
+http://pfsv.io:80/00826082/94250/264
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2" group-title=" Canais | Esportes",OFF SD
+http://pfsv.io:80/00826082/94250/273
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/premiere.png" group-title="Canais | Jogos & Eventos",Premiere Internacional
+http://pfsv.io:80/00826082/94250/501
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Rai Italia HD
+http://pfsv.io:80/00826082/94250/33403
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",SporTV 2 HD
+http://pfsv.io:80/00826082/94250/557
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E" group-title="Canais | SporTV",SporTV 2 SD
+http://pfsv.io:80/00826082/94250/560
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F" group-title="Canais | SporTV",SporTV 3 HD
+http://pfsv.io:80/00826082/94250/558
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F" group-title="Canais | SporTV",SporTV 3 SD
+http://pfsv.io:80/00826082/94250/561
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f" group-title="Canais | SporTV",SporTV HD
+http://pfsv.io:80/00826082/94250/556
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f" group-title="Canais | SporTV",SporTV SD
+http://pfsv.io:80/00826082/94250/559
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",WATCH ESPN
+http://pfsv.io:80/00826082/94250/33376
+#EXTINF:-1 tvg-logo="" group-title=" Canais | Esportes",[US] WWE FHD
+http://pfsv.io:80/00826082/94250/674
 #EXTINF: -1 tvg-logo = "" group-title = "Canais | A Fazenda", A Fazenda 12 (2020) [ALTER]
 http://pfsv.io:80/07720253/51853/48758
 #EXTINF: -1 tvg-logo = "http://z4.vc/uuz" group-title = "Canais | Filmes e Séries", A & E HD
